@@ -1,0 +1,17 @@
+#IDE and tools folders
+.git
+.idea
+.vs
+
+#configs and user files
+.vsconfig
+*.uasset
+*.fbx
+
+#Unreal Specific folders
+Binaries
+DerivedDataCache
+Saved
+Intermediate
+Content/SkyTown
+
