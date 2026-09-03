@@ -21,5 +21,4 @@ public:
 	UPROPERTY(BlueprintReadWrite)
 	TSet<FName> Keys;
 	
-	
 };
